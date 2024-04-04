@@ -41,7 +41,7 @@ podem ser compartilhadas com os profissionais de saúde em caso de
 emergência.
 
 
-🧑‍💻👩‍💻 Equipe: Diego André, Leonardo Giora, Pedro Esmeraldino, Pedro Botega, Isabel Pichini
+🧑‍💻👩‍💻 Equipe: Leonardo Giora, Diego André, Pedro Esmeraldino, Pedro Botega, Isabel Pichini
 
 
 🛠️ Recursos/Tecnologias Utilizados: Html, Css
