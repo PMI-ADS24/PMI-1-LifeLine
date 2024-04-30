@@ -6,8 +6,7 @@ LifeLine
 
 Em situações de emergência, como desastres naturais, acidentes de
 trânsito ou crises de saúde, a comunicação rápida e eficaz é
-essencial. No entanto, muitas vezes as pessoas, especialmente idosos
-e pessoas com deficiência (PCD), não têm as informações necessárias
+essencial. No entanto, muitas vezes as pessoas não têm as informações necessárias
 à mão, como a localização exata de um incidente, o número de
 telefone de um contato de emergência, ou detalhes médicos
 relevantes. Além disso, em algumas situações, a pessoa em perigo
@@ -21,17 +20,13 @@ O aplicativo “LifeLine” é especialmente projetado para idosos
 e pessoas com deficiência (PCD). Estes grupos muitas vezes enfrentam
 desafios adicionais em situações de emergência, e nosso aplicativo
 seria uma ferramenta valiosa para ajudá-los a comunicar suas
-necessidades e localização de forma rápida e eficaz. Além disso, o
-armazenamento de informações médicas importantes no aplicativo pode
-ser de grande ajuda para os profissionais de saúde ao atender a
-esses grupos em situações de emergência.
+necessidades e localização de forma rápida e eficaz.
 
 🎁 Proposta de Valor: 
 
 
 Nosso aplicativo, “LifeLine”, resolveria esses problemas
-fornecendo uma plataforma que permite aos usuários, com foco em
-idosos e PCDs, compartilhar rapidamente informações críticas com
+fornecendo uma plataforma que permite aos usuários, compartilhar rapidamente informações críticas com
 serviços de emergência e contatos de emergência. Ele também poderia
 incluir um recurso de alerta de emergência que pode ser ativado com
 o toque de um botão, enviando um sinal de socorro junto com a
