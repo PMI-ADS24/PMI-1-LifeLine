@@ -44,11 +44,11 @@ emergência.
 💡 PMI I
 
 
-🔗 url github: https://github.com/PMI-ADS24/PMI-1-LifeLine
+🔗 url github: [Link](https://github.com/PMI-ADS24/PMI-1-LifeLine)
 
+ :page_with_curl: business model canvas: [Link](https://docs.google.com/presentation/d/1kdIOVAof635d-K2FL8WukZLQGQlzQaoz/edit?usp=sharing&ouid=109527379322853131797&rtpof=true&sd=true)
 
 🛬 url landpage:
-
 
 🤝 url Modelo Negócio (imagem):
 
